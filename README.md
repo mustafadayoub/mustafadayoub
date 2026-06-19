@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=250&section=header&text=Mustafa%20Dayoub&fontSize=50&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%26%20AppSec&descAlignY=55&descAlign=50" alt="Banner" />
-</div>
+  <a href="https://mustafadayoub.github.io">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=35&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&height=100&lines=Hi%2C+I'm+Mustafa+Dayoub;Backend+Developer;AppSec+%26+DevSecOps+Explorer" alt="Typing Animation" />
+  </a>
+</div>>
 
 <div align="center">
   <h3>✨ Crafting Scalable Backend Systems & Secure APIs</h3>
